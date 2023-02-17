@@ -1,0 +1,29 @@
+{
+    "happy-birthday": {
+        "name": "Happy Birthday",
+        "artist": "Mr Birthday Man",
+        "commentary": "this song is a classic!",
+        "outlinks": {
+        },
+        "tags": [
+            "minor plagal"
+        ],
+        "similarTo": [
+            "twinkle-twinkle-little-star"
+        ],
+        "sections": {
+            "Pre-Chorus": {
+                "tempo": 120,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "I IV V I / I vi IV V (x2)"
+            },
+            "Chorus": {
+                "tempo": 120,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "III vim IV V (x2)"
+            }
+        }
+    }
+}
