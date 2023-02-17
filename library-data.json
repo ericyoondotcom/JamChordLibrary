@@ -1,28 +1,59 @@
 {
-    "happy-birthday": {
-        "name": "Happy Birthday",
-        "artist": "Mr Birthday Man",
-        "commentary": "this song is a classic!",
+    "lemon-boy": {
+        "name": "Lemon Boy",
+        "artist": "Cavetown",
+        "commentary": "Wonderful use of the borrowed IIImaj throughout. Absolutely heartbreaking borrowed ivm, coupled with powerful lyrics, during the bridge.",
         "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=LFJrdFyk5gs",
+            "spotify": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
         },
         "tags": [
-            "minor plagal"
+            "ivm & minor plagal cadence",
+            "IIImaj"
         ],
         "similarTo": [
-            "twinkle-twinkle-little-star"
+            "happy-birthday", "lemon-boy"
         ],
         "sections": {
             "Pre-Chorus": {
-                "tempo": 120,
-                "key": 3,
+                "tempo": 71,
+                "key": 7,
                 "mode": "ionian",
-                "chords": "I IV V I / I vi IV V (x2)"
+                "chords": "4I 4III 4IV 2iim 2V (x2)"
             },
             "Chorus": {
-                "tempo": 120,
-                "key": 3,
+                "tempo": 71,
+                "key": 7,
                 "mode": "ionian",
-                "chords": "III vim IV V (x2)"
+                "chords": "2IV 2I 2III iim V (x3) / 2IV 2V 2I"
+            },
+            "Bridge": {
+                "tempo": 71,
+                "key": 7,
+                "mode": "ionian",
+                "chords": "4I 4III 4IV 4ivm 4IV 4I 4III 4IV 4ivm / 4I 4III 4IV 2ivm 2V (x2)"
+            }
+        }
+    },
+    "happy-birthday": {
+        "name": "Happy Birthday",
+        "artist": "Traditional",
+        "commentary": "This song is a hit at birthday parties!",
+        "outlinks": {
+            "youtube": "https://www.youtube.com/watch?v=7vQsBI6C8Qk"
+        },
+        "tags": [
+            "taylor swift bc it only has 3 chords? get it?"
+        ],
+        "similarTo": [
+            "lemon-boy"
+        ],
+        "sections": {
+            "Chorus": {
+                "tempo": 75,
+                "key": 10,
+                "mode": "ionian",
+                "chords": "3I 3V 3V7 3I / 3I 3IV 3V 3I"
             }
         }
     }
