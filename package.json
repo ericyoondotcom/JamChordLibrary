@@ -1,0 +1,23 @@
+{
+  "name": "jamchordlibrary",
+  "version": "1.0.0",
+  "description": "An analysis of my favorite songs. View the web UI at jam.yoonicode.com/library",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericyoondotcom/JamChordLibrary.git"
+  },
+  "author": "Yoonicode",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ericyoondotcom/JamChordLibrary/issues"
+  },
+  "homepage": "https://github.com/ericyoondotcom/JamChordLibrary#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
