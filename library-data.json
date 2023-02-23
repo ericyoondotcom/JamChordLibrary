@@ -12,7 +12,6 @@
             "IIImaj"
         ],
         "similarTo": [
-            "happy-birthday", "lemon-boy"
         ],
         "sections": {
             "Pre-Chorus": {
@@ -35,25 +34,103 @@
             }
         }
     },
-    "happy-birthday": {
-        "name": "Happy Birthday",
-        "artist": "Traditional",
-        "commentary": "This song is a hit at birthday parties!",
+    "love-like-you": {
+        "name": "Love Like You",
+        "artist": "Steven Universe",
+        "commentary": "This song is full of stepwise motion throughout and is overall very nostalgic!",
         "outlinks": {
-            "youtube": "https://www.youtube.com/watch?v=7vQsBI6C8Qk"
+            "youtube-music": "https://music.youtube.com/watch?v=GDTD24KsdGc",
+            "spotify": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO"
         },
         "tags": [
-            "taylor swift bc it only has 3 chords? get it?"
+            "ivm & minor plagal cadence",
+            "VImaj"
         ],
         "similarTo": [
-            "lemon-boy"
         ],
         "sections": {
-            "Chorus": {
-                "tempo": 75,
-                "key": 10,
+            "Verse": {
+                "tempo": 120,
+                "key": 6,
                 "mode": "ionian",
-                "chords": "3I 3V 3V7 3I / 3I 3IV 3V 3I"
+                "chords": "3Imaj7 3iim7 3iiim7 3ivm 3iiim7 3VI 3II 3V6"
+            },
+            "Bridge": {
+                "tempo": 120,
+                "key": 6,
+                "mode": "ionian",
+                "chords": "3IV 3ivm 3iiim7 3vim7 3iim7 3biiidim7 3iiim7 vim7 2I7 / 3IV 3ivm 3iiim7 3vim7 6IVmaj7 6V6"
+            }
+        }
+    },
+    "fantasy": {
+        "name": "Fantasy",
+        "artist": "Khai Dreams",
+        "commentary": "Khai Dreams added vocals to Jinsang's \"Summer's Day v2\", which itself is a remix of \"One Summer's Day\" from Spirited Away. While we analyze it in Dmaj below, it is actually in the key of D+30¢.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=vysjRahYFz0",
+            "spotify": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
+        },
+        "tags": [
+            "bVI, bVII: mario/backdoor cadence"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 72,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4iim7 4V 4Imaj7 4vim 4IVmaj7 4Imaj7 4bVI 2Vsus4 2V"
+            },
+            "Chorus": {
+                "tempo": 85,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "2IVmaj7 2iiim7 iim7 Imaj7 vm7 I7 (x7) / 2IVmaj7 2iim7 4vim7 4II7 4V 4vim6 4V"
+            },
+            "Bridge": {
+                "tempo": 85,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "2vim 2V 2IV 2I 2bIII 2bVII 2biidim 2V 2vim 2V 2IV 2iiim 2bIII 2bVII 2biidim 2I (x2)"
+            }
+        }
+    },
+    "異端なスター": {
+        "name": "異端なスター (Itan na star)",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "Full of chromatic motion, both in the bass in the intro and by the vocalist in the chorus! The brass gives this song a very full sound and fun energy. Super exciting instrumental/scat solo bridge!",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=0OZ15_9YKPc",
+            "spotify": "https://open.spotify.com/track/6vtHQ7FcAXSOKSOeaBm5bc"
+        },
+        "tags": [
+            "chromatic motion & passing chords",
+            "IIImaj",
+            "ivm & minor plagal cadence",
+            "#ivdim"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 93,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "2I 2V/VII 2vi 2I/V 2IV 2I/III 4II 8V"
+            },
+            "Verse": {
+                "tempo": 100,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "4I 4iiim 4vim 2vm 2I 4IVmaj7 4iiim7 4iim7 4V / 4I 4iiim 4vim 2vm 2I 4IVmaj7 4iiim7 4iim7 4III / 4vim 4ivm 4iiim 4vim / 4iim 4#ivdim 4V 4V7"
+            },
+            "Chorus": {
+                "tempo": 100,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "2I 2I7 2IV/VI 2ivm/bVI 2iiim 2vim 2iim 2V / 2I 2I7 2IV/VI 2ivm/bVI 2iiim 2vim 2iim 2III / 2IVmaj7 2iim7 4Imaj7 (x2)"
             }
         }
     }
