@@ -1,68 +1,4 @@
 {
-    "lemon-boy": {
-        "name": "Lemon Boy",
-        "artist": "Cavetown",
-        "commentary": "Wonderful use of the borrowed IIImaj throughout. Absolutely heartbreaking borrowed ivm, coupled with powerful lyrics, during the bridge.",
-        "outlinks": {
-            "youtube-music": "https://music.youtube.com/watch?v=LFJrdFyk5gs",
-            "spotify": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
-        },
-        "tags": [
-            "ivm & minor plagal cadence",
-            "IIImaj"
-        ],
-        "similarTo": [
-        ],
-        "sections": {
-            "Pre-Chorus": {
-                "tempo": 71,
-                "key": 7,
-                "mode": "ionian",
-                "chords": "4I 4III 4IV 2iim 2V (x2)"
-            },
-            "Chorus": {
-                "tempo": 71,
-                "key": 7,
-                "mode": "ionian",
-                "chords": "2IV 2I 2III iim V (x3) / 2IV 2V 2I"
-            },
-            "Bridge": {
-                "tempo": 71,
-                "key": 7,
-                "mode": "ionian",
-                "chords": "4I 4III 4IV 4ivm 4IV 4I 4III 4IV 4ivm / 4I 4III 4IV 2ivm 2V (x2)"
-            }
-        }
-    },
-    "love-like-you": {
-        "name": "Love Like You",
-        "artist": "Steven Universe",
-        "commentary": "This song is full of stepwise motion throughout and is overall very nostalgic!",
-        "outlinks": {
-            "youtube-music": "https://music.youtube.com/watch?v=GDTD24KsdGc",
-            "spotify": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO"
-        },
-        "tags": [
-            "ivm & minor plagal cadence",
-            "VImaj"
-        ],
-        "similarTo": [
-        ],
-        "sections": {
-            "Verse": {
-                "tempo": 120,
-                "key": 6,
-                "mode": "ionian",
-                "chords": "3Imaj7 3iim7 3iiim7 3ivm 3iiim7 3VI 3II 3V6"
-            },
-            "Bridge": {
-                "tempo": 120,
-                "key": 6,
-                "mode": "ionian",
-                "chords": "3IV 3ivm 3iiim7 3vim7 3iim7 3biiidim7 3iiim7 vim7 2I7 / 3IV 3ivm 3iiim7 3vim7 6IVmaj7 6V6"
-            }
-        }
-    },
     "fantasy": {
         "name": "Fantasy",
         "artist": "Khai Dreams",
@@ -131,6 +67,111 @@
                 "key": 11,
                 "mode": "ionian",
                 "chords": "2I 2I7 2IV/VI 2ivm/bVI 2iiim 2vim 2iim 2V / 2I 2I7 2IV/VI 2ivm/bVI 2iiim 2vim 2iim 2III / 2IVmaj7 2iim7 4Imaj7 (x2)"
+            }
+        }
+    },
+    "宿命": {
+        "name": "宿命 (Shukumei)",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "This song makes use of the bVI at the end of the chorus for a satisfying cadence. The bassline is full of stepwise motion.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=NGDi89A5FcU",
+            "spotify": "https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p"
+        },
+        "tags": [
+            "bVI, bVII: mario/backdoor cadence",
+            "ivm & minor plagal cadence"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 160,
+                "key": 8,
+                "mode": "ionian",
+                "chords": "4I 4IV 2V 2III7 4vim 4IV 4I 4iim 4V7"
+            },
+            "Verse": {
+                "tempo": 160,
+                "key": 8,
+                "mode": "ionian",
+                "chords": "2I 2I/V 4IV 2V 2III7 4vim 2vim 2V 4#ivm7b5 2iim 2II7 4V / 2I 2I/V 4IV 2V 2III7 4vim 2vim 2V 4#ivm7b5 2iim 2iim7b5 4I"
+            },
+            "Pre-Chorus": {
+                "tempo": 160,
+                "key": 8,
+                "mode": "ionian",
+                "chords": "4iiim 4IV 2V 2III7 4vim (x3) / 2iim 2iiim 4IV 4V 4V7"
+            },
+            "Chorus": {
+                "tempo": 160,
+                "key": 8,
+                "mode": "ionian",
+                "chords": "4I 4bVI+ 4vim 4bVII 4IV 4iiim 4iim 4ivm / 4I 4bVI+ 4vim 4bVII 4IV 4iiim 8iim 8bVI 8I"
+            }
+        }
+    },
+    "lemon-boy": {
+        "name": "Lemon Boy",
+        "artist": "Cavetown",
+        "commentary": "Wonderful use of the borrowed IIImaj throughout. Absolutely heartbreaking borrowed ivm, coupled with powerful lyrics, during the bridge.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=LFJrdFyk5gs",
+            "spotify": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
+        },
+        "tags": [
+            "ivm & minor plagal cadence",
+            "IIImaj"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Pre-Chorus": {
+                "tempo": 71,
+                "key": 7,
+                "mode": "ionian",
+                "chords": "4I 4III 4IV 2iim 2V (x2)"
+            },
+            "Chorus": {
+                "tempo": 71,
+                "key": 7,
+                "mode": "ionian",
+                "chords": "2IV 2I 2III iim V (x3) / 2IV 2V 2I"
+            },
+            "Bridge": {
+                "tempo": 71,
+                "key": 7,
+                "mode": "ionian",
+                "chords": "4I 4III 4IV 4ivm 4IV 4I 4III 4IV 4ivm / 4I 4III 4IV 2ivm 2V (x2)"
+            }
+        }
+    },
+    "love-like-you": {
+        "name": "Love Like You",
+        "artist": "Steven Universe",
+        "commentary": "This song is full of stepwise motion throughout and is overall very nostalgic!",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=GDTD24KsdGc",
+            "spotify": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO"
+        },
+        "tags": [
+            "ivm & minor plagal cadence",
+            "VImaj"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Verse": {
+                "tempo": 120,
+                "key": 6,
+                "mode": "ionian",
+                "chords": "3Imaj7 3iim7 3iiim7 3ivm 3iiim7 3VI 3II 3V6"
+            },
+            "Bridge": {
+                "tempo": 120,
+                "key": 6,
+                "mode": "ionian",
+                "chords": "3IV 3ivm 3iiim7 3vim7 3iim7 3biiidim7 3iiim7 vim7 2I7 / 3IV 3ivm 3iiim7 3vim7 6IVmaj7 6V6"
             }
         }
     }
