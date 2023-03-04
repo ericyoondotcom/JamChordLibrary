@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "artist": "",
+    "commentary": "",
+    "outlinks": {
+        "youtube-music": "",
+        "spotify": ""
+    },
+    "tags": [
+    ],
+    "similarTo": [
+    ],
+    "sections": {
+        "Intro": {
+            "tempo": 120,
+            "key": 3,
+            "mode": "ionian",
+            "chords": ""
+        }
+    }
+}

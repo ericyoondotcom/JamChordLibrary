@@ -8,7 +8,8 @@
             "spotify": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
         },
         "tags": [
-            "bVI, bVII: mario/backdoor cadence"
+            "bVI, bVII: mario/backdoor cadence",
+            "vm"
         ],
         "similarTo": [
         ],
@@ -33,6 +34,85 @@
             }
         }
     },
+    "ghost-choir": {
+        "name": "Ghost Choir",
+        "artist": "Louie Zong",
+        "commentary": "The intro has a series of wonderful chromatic transitions. This song is filled with ghostly minor plagal cadences and takes many surprising turns.",
+        "outlinks": {
+            "youtube": "https://www.youtube.com/watch?v=kXF3VYYa5TI"
+        },
+        "tags": [
+            "chromatic motion & passing chords",
+            "ivm & minor plagal cadence",
+            "#ivdim",
+            "VImaj",
+            "vm"
+        ],
+        "similarTo": [],
+        "sections": {
+            "Intro": {
+                "tempo": 67,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "2I/III V #IV7 2IV IV/VI #ivdim 2I/V V/VII #IV7/bVII 2IV/VI 2V7"
+            },
+            "Verse": {
+                "tempo": 67,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "2I vi VI7 2iim 2V / 2I vim VI7 2iim 2vm7 / 2IV 2ivm 2iim7 2VI7 / 4IV 4ivm 4I"
+            }
+        }
+    },
+    "dont-leave-me-here-alone": {
+        "name": "Don't Leave Me Here Alone",
+        "artist": "Artificial.Music",
+        "commentary": "Movement by fifth keeps this song moving forward.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=7rXZRmt2rk4",
+            "spotify": "https://open.spotify.com/track/5VBqg1EEBzUhj6GO2mN3m7"
+        },
+        "tags": [
+            "movement by fifth & circle progressions"
+        ],
+        "similarTo": [],
+        "sections": {
+            "Verse": {
+                "tempo": 91,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "2Imaj7 2vim7 2iim7 2V7 2iiim7 2VI7 2iim7 2V"
+            }
+        }
+    },
+    "there-is-a-god": {
+        "name": "There Is A God",
+        "artist": "MAX",
+        "commentary": "Use of the line cliché and the backdoor cadence makes this song feel nostalgic and hopeful. While there are only a few instruments, production makes this track sound full.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=EC685IVUnV4",
+            "spotify": "https://open.spotify.com/track/7JVrd9JwGP7USfReyJjJ85"
+        },
+        "tags": [
+            "line cliché",
+            "bVI, bVII: mario/backdoor cadence"
+        ],
+        "similarTo": [],
+        "sections": {
+            "Intro/Verse/Chorus": {
+                "tempo": 99,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "2I 2Imaj7/VII 4I7/bVII 4IVmaj7/VI 2bVI 2bVII"
+            },
+            "Pre-Chorus": {
+                "tempo": 99,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4vim 4III 4IV 2ivm 2V"
+            }
+        }
+    },
     "異端なスター": {
         "name": "異端なスター (Itan na star)",
         "artist": "OFFICIAL HIGE DANDISM",
@@ -45,7 +125,8 @@
             "chromatic motion & passing chords",
             "IIImaj",
             "ivm & minor plagal cadence",
-            "#ivdim"
+            "#ivdim",
+            "vm"
         ],
         "similarTo": [
         ],
@@ -172,6 +253,45 @@
                 "key": 6,
                 "mode": "ionian",
                 "chords": "3IV 3ivm 3iiim7 3vim7 3iim7 3biiidim7 3iiim7 vim7 2I7 / 3IV 3ivm 3iiim7 3vim7 6IVmaj7 6V6"
+            }
+        }
+    },
+    "despair": {
+        "name": "despair",
+        "artist": "leo.",
+        "commentary": "A happy ukulele tune with cool chromatic transitions.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=5HumW6H_p1w",
+            "spotify": "https://open.spotify.com/track/292JruITePIpFvRpPb85GF"
+        },
+        "tags": [
+            "chromatic motion & passing chords"
+        ],
+        "similarTo": [],
+        "sections": {
+            "Intro": {
+                "tempo": 170,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4I 4Imaj7 4iim 4V (x2)"
+            },
+            "Verse": {
+                "tempo": 170,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "8I 8VI 8iim7 8V"
+            },
+            "Pre-Chorus": {
+                "tempo": 170,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4vim 4bVI+ 4vim7/V 4II/#IV / 16IV 16V"
+            },
+            "Chorus": {
+                "tempo": 170,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4I 4VI 4iim7 4V (x2) / 2vim 2bVI+ 2vim7/V 2II/#IV 4IV 4V / 4I 4VI 4iim7 4V"
             }
         }
     }
