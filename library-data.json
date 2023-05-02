@@ -113,6 +113,78 @@
             }
         }
     },
+    "発明家": {
+        "name": "発明家",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "Amazing modulation from Bb, to C, to B, back to C! The song also changes form by mixing up how many times each section is repeated. Drum hits emphasizing each beat, along with the big band feel, make this song super happy (in the same vein of \"Mr. Blue Sky\"). This song frequently uses the vi → bVI+ → I/V → II line cliche, as well as the I → iiim/VII → iiidim/bVII → VImaj one (which sounds like a temporary modulation). The bridge uses this band's classic circle of 5ths progression.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=09rQgH_ywWY",
+            "spotify": "https://open.spotify.com/track/1aCvj5he8HsgdROfcEW7Ax"
+        },
+        "tags": [
+            "line cliché",
+            "chromatic motion & passing chords",
+            "movement by fifth & circle progressions"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 149,
+                "key": 1,
+                "mode": "ionian",
+                "chords": "8I 4IV 4iiim 4vim7 4bVI+ 4I/V 4II/#III 8ii 16V"
+            },
+            "Verse 1": {
+                "tempo": 149,
+                "key": 1,
+                "mode": "ionian",
+                "chords": "8I 8iiim/VII 8iiidim/bVII 4VIsus4 4VImaj 4iim 4bII+ 4IV 4V (x2) / 8I"
+            },
+            "Pre-chorus 1": {
+                "tempo": 149,
+                "key": 1,
+                "mode": "ionian",
+                "chords": "8III7 4vim 4II/VI 4iim 4iiim 2IV 2#ivdim 8V 8VI"
+            },
+            "Chorus 1": {
+                "tempo": 149,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4I 4I7 4IV 4iiim 4vim 4IImaj 4iim 4V / 4I 4I7 4IV 4iiim 4vim 4bVI+ 4I/V 4IImaj 8iim 4V 4#IV"
+            },
+            "Verse 2": {
+                "tempo": 149,
+                "key": 2,
+                "mode": "ionian",
+                "chords": "8I 8iiim/VII 8iiidim/bVII 4VIsus4 4VImaj 4iim 4bII+ 4IV 4V 8I"
+            },
+            "Pre-chorus 2": {
+                "tempo": 149,
+                "key": 2,
+                "mode": "ionian",
+                "chords": "8III7 4vim 4IImaj/VI 4iim 4iiim 2IV 2#ivdim 8V"
+            },
+            "Chorus 2": {
+                "tempo": 149,
+                "key": 2,
+                "mode": "ionian",
+                "chords": "4I 4I7 4IV 4iiim 4vim 4IImaj 4iim 4V / 4I 4I7 4IV 4iiim 4vim 4bVI+ 4I/V 4IImaj 8iim 7V bVI"
+            },
+            "Bridge": {
+                "tempo": 149,
+                "key": 2,
+                "mode": "ionian",
+                "chords": "4vim 4IImaj 4V 4I 4vim 4IImaj 4iim 2vim 2IIImaj / 4vim 4bVI+ 4I/V 4IImaj 8iim 4V 4bVI"
+            },
+            "Chorus 3": {
+                "tempo": 149,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4I 4I7 4IV 4iiim 4vim 4IImaj 4iim 4V / 4I 4I7 4IV 4iiim 4vim 4bVI+ 4I/V 4IImaj 8iim 8V (x2)"
+            }
+        }
+    },
     "異端なスター": {
         "name": "異端なスター (Itan na star)",
         "artist": "OFFICIAL HIGE DANDISM",
