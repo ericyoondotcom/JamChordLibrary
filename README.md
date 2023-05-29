@@ -5,5 +5,5 @@ This data may not be used commercially without permission from the author. If yo
 
 To serve this up locally:
 ```
-python3 -m http.server 3030
+npm start
 ```

@@ -8,8 +8,7 @@
             "spotify": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
         },
         "tags": [
-            "bVI, bVII: mario/backdoor cadence",
-            "vm"
+            "bVI, bVII: mario/backdoor cadence"
         ],
         "similarTo": [
         ],
@@ -45,8 +44,7 @@
             "chromatic motion & passing chords",
             "ivm & minor plagal cadence",
             "#ivdim",
-            "VImaj",
-            "vm"
+            "VImaj"
         ],
         "similarTo": [],
         "sections": {
@@ -188,7 +186,7 @@
     "異端なスター": {
         "name": "異端なスター (Itan na star)",
         "artist": "OFFICIAL HIGE DANDISM",
-        "commentary": "Full of chromatic motion, both in the bass in the intro and by the vocalist in the chorus! The brass gives this song a very full sound and fun energy. Super exciting instrumental/scat solo bridge!",
+        "commentary": "Full of chromatic motion, both in the bass in the intro and by the vocalist in the chorus! The brass gives this song a very full sound and fun energy. Super exciting instrumental/scat solo bridge! In the verse, OFFICIAL HIGE DANDISM uses a 2-5-1 borrowed from the subdominant, a gesture they frequently use (see Similar To songs). In the chorus, there's notable bass movement that glues together the harmonic progression.",
         "outlinks": {
             "youtube-music": "https://music.youtube.com/watch?v=0OZ15_9YKPc",
             "spotify": "https://open.spotify.com/track/6vtHQ7FcAXSOKSOeaBm5bc"
@@ -198,9 +196,12 @@
             "IIImaj",
             "ivm & minor plagal cadence",
             "#ivdim",
-            "vm"
+            "vm-I-IV: subdominant 2-5-1"
         ],
         "similarTo": [
+            "luma",
+            "pretender",
+            "mixed-nuts"
         ],
         "sections": {
             "Intro": {
@@ -261,6 +262,112 @@
                 "key": 8,
                 "mode": "ionian",
                 "chords": "4I 4bVI+ 4vim 4bVII 4IV 4iiim 4iim 4ivm / 4I 4bVI+ 4vim 4bVII 4IV 4iiim 8iim 8bVI 8I"
+            }
+        }
+    },
+    "pretender": {
+        "name": "Pretender",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "This song is less complex than the band's other repertoire but still has cool harmonic moments. Just like in their other songs (see Similar To), they use a 2-5-1 borrowed from the subdominant in the pre-chorus and chorus. The chorus ends on an unexpected ivm which breaks the otherwise happy mood of the song.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=37W7Y2RRyiM",
+            "spotify": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
+        },
+        "tags": [
+            "vm-I-IV: subdominant 2-5-1",
+            "ivm & minor plagal cadence"
+        ],
+        "similarTo": [
+            "異端なスター",
+            "luma",
+            "mixed-nuts"
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 92,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "4I 2viim 2III7 4vim 3iim V (x2)"
+            },
+            "Verse": {
+                "tempo": 92,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "6I 2III7 4vim 4IImaj 4iim 2IV 2V / 6I 2III7 4vim 4IImaj 4iim 4V 8I"
+            },
+            "Pre-Chorus": {
+                "tempo": 92,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "2IVmaj7 2III7 2vim vm7 I (x4) / 4iim 4V"
+            },
+            "Chorus": {
+                "tempo": 92,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "4I 2viidim 2III7 4vim 2vm7 2I 4IVmaj7 4iiim7 4iim7 2V 2ivm / 4I 2viidim 2III7 4vim 2vm7 2I 4IVmaj7 4iiim7 4iim7 4V"
+            }
+        }
+    },
+    "mixed-nuts": {
+        "name": "Mixed Nuts",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "This song makes heavy use of movement by fifth. The pre-chorus exemplifies this, essentially going around the circle once, then repeating a fifth down. After having effectively modulated away temporarily during the pre-chorus, the song transtions back into Gb by jumping from the V of A to the V of Gb with a cool chromatic line.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=EZy_vHyFedw",
+            "spotify": "https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ"
+        },
+        "tags": [
+            "movement by fifth & circle progressions",
+            "vm-I-IV: subdominant 2-5-1"
+        ],
+        "similarTo": [
+            "異端なスター",
+            "pretender",
+            "luma"
+        ],
+        "sections": {
+            "Intro": {
+                "tempo": 148,
+                "key": 9,
+                "mode": "ionian",
+                "chords": "4I 4III7 4vim 2vm7 2I7 2IV 2V 2III7 2vim 2IV 2iiim7 2ivm7 2V7 / 4I 4III7 4vim 2vm7 2I7 2IV 2V 2III7 2vim 4IV 4ivm"
+            },
+            "Pre-Chorus": {
+                "tempo": 148,
+                "key": 9,
+                "mode": "ionian",
+                "chords": "2ivm7 2bVIsus2/bVII 2bIII 2bvim7 2iidim7 2V7 4Imaj7 / 2bVIIm7 2bIII7 2bVImaj7 2bII7 4im7 4IV7 4ivm7 2bVIsus2/bVII / 1/2V 1/2I+/#IV 1/2bII+"
+            },
+            "Chorus": {
+                "tempo": 148,
+                "key": 9,
+                "mode": "ionian",
+                "chords": "4Imaj7 4III 4vim7 2vm7 2Imaj7 2IV 2III 2vim7 2II7 4iim7 2IV 2V7 / 4Imaj7 4III 4vim7 2vm7 2Imaj7 2IV 2III 2vim7 2II7 8iim7 12IV 4V 8I"
+            }
+        }
+    },
+    "luma": {
+        "name": "Luma's Theme",
+        "artist": "Super Mario Galaxy: Original Soundtrack",
+        "commentary": "This is a very wholesome song with a descending bassline. It features a vm-I-IV borrowed 2-5-1 (see Similar To).",
+        "outlinks": {
+            "youtube": "https://www.youtube.com/watch?v=O_2P_41Iz4A"
+        },
+        "tags": [
+            "vm-I-IV: subdominant 2-5-1"
+        ],
+        "similarTo": [
+            "異端なスター",
+            "pretender",
+            "mixed-nuts"
+        ],
+        "sections": {
+            "Chorus": {
+                "tempo": 76,
+                "key": 3,
+                "mode": "ionian",
+                "chords": "4I 4V/VII 4vim 4iiim/V 4IV 4I/III 4IImaj 4V7 / 4I 4V/VII 4vim 2vm 2I 4IV 2I/III 2ivm7/bIII 2iim 2V 4I"
             }
         }
     },
