@@ -473,5 +473,72 @@
                 "chords": "4I 4VI 4iim7 4V (x2) / 2vim 2bVI+ 2vim7/V 2II/#IV 4IV 4V / 4I 4VI 4iim7 4V"
             }
         }
+    },
+    "put-your-records-on": {
+        "name": "Put Your Records On",
+        "artist": "Corinne Bailey Rae",
+        "commentary": "A satisfying song with lots of chromatic motion. The bass note notation is not necessarily what's played by the bass; instead, I wanted to emphasize the stepwise motion. This song's defining chord is the I(b5). The ivmmaj7 serving as a minor plagal cadence at the end of the chorus makes the song nostalgic.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=20WaVg6Lpz8",
+            "spotify": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+        },
+        "tags": [
+            "I(b5)",
+            "chromatic motion & passing chords",
+            "ivm & minor plagal cadence"
+        ],
+        "similarTo": [
+            "the-perfect-pair"
+        ],
+        "sections": {
+            "Verse": {
+                "tempo": 96,
+                "key": 0,
+                "mode": "ionian",
+                "chords": "4I/V 4I(b5)/bV 4IV6 4I/III (x2)"
+            },
+            "Pre-Chorus": {
+                "tempo": 96,
+                "key": 0,
+                "mode": "ionian",
+                "chords": "4vim 4III7 4vim7 4II7 8IVmaj7 8IVmaj7(b5)"
+            },
+            "Chorus": {
+                "tempo": 96,
+                "key": 0,
+                "mode": "ionian",
+                "chords": "4I/V 4I(b5)/#IV 4IV6 4I/III (x2) / 4IVmaj7 4ivmmaj7"
+            },
+            "Bridge": {
+                "tempo": 96,
+                "key": 0,
+                "mode": "ionian",
+                "chords": "8iim 8vim 8iim 8IVmaj7"
+            }
+        }
+    },
+    "the-perfect-pair": {
+        "name": "the perfect pair",
+        "artist": "beabadoobee",
+        "commentary": "A classic example of a line cliché: a bass note descending against a vim chord.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=WWa28QJEjnQ",
+            "spotify": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+        },
+        "tags": [
+            "line cliché",
+            "I(b5)"
+        ],
+        "similarTo": [
+            "put-your-records-on"
+        ],
+        "sections": {
+            "Chorus": {
+                "tempo": 147,
+                "key": 2,
+                "mode": "ionian",
+                "chords": "4vim 4bVI+ 4I/V 4I(b5)/bV 12IVmaj7(no3) 4I(b5)/bV"
+            }
+        }
     }
 }
