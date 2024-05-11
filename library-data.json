@@ -8,7 +8,8 @@
             "spotify": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
         },
         "tags": [
-            "bVI, bVII: mario/backdoor cadence"
+            "bVI, bVII: mario/backdoor cadence",
+            "vm-I-IV: subdominant 2-5-1"
         ],
         "similarTo": [
         ],
@@ -578,6 +579,46 @@
                 "key": 5,
                 "mode": "ionian",
                 "chords": "4vim 4iiim 4vim 4iiim 4IV 4V (x2) / vim7 vim6 vim(add4)"
+            }
+        }
+    },
+    "cry-baby": {
+        "name": "Cry Baby",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "This song modulates between the verse, pre-chorus, and even between the two halves of the chorus!\n\nWe'll analyze the verse in Ab, though it is arguably in F minor. The first modulation is down a minor 3rd to F. The last few notes outline the F melodic minor scale; these top four notes in the scale are conveniently in the F major scale, to which the song modulates.\n\nThe second modulation is from F to D, a minor 3rd down. The melody outlines the vi harmonic minor scale (dm); it descends, but hits the F# instead of the F. In this way, it goes from the D relative minor to D major as the new key.\n\nTo go from D to Db in the middle of the chorus, the chord changes to ebm—the bII of D, but the II of Db. The harmony then goes from II to IV to I in Db, setting the key. The chorus ends with a VImaj, giving Picardy Third-esque vibes.\n\nFinally, to get back to Abmaj/Fmin, the melody ends on the I of the VImaj of Db (which is the root of the Picardy Third VImaj). This note, the Bb, is now the fourth degree of the F minor scale.\n\nEditor's notes: perhaps change the display mode to \"note names\" to understand the key changes. Also, I had to split the chorus into two sections to make the software work with the key change.",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=tty54CzXZDg",
+            "spotify": "https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK"
+        },
+        "tags": [
+            "modulation"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Verse": {
+                "tempo": 100,
+                "key": 11,
+                "mode": "ionian",
+                "chords": "4vim 4II 4IV 2viidim 2III7 (x2)"
+            },
+            "Pre-Chorus": {
+                "tempo": 100,
+                "key": 8,
+                "mode": "ionian",
+                "chords": "2I 2iim 4iidim7 2vim/III 2II 4VI 2IV 2V 4I 2iim 2idim7 4III"
+            },
+            "Chorus (Part 1)": {
+                "tempo": 100,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4I 2viidim 2III7 2vim 2viidim7 2I 2biim"
+            },
+            "Chorus (Part 2)": {
+                "tempo": 100,
+                "key": 4,
+                "mode": "ionian",
+                "chords": "4IV 4I 2iim 2iiim 4vim / 4I 2viidim 2III 2vim 2bvidim7 2I 2II 4IV 2I 2VI7 2iim 2I/III 4vim 2IV 2V 4vim 2IV 2V 2VI"
             }
         }
     }
