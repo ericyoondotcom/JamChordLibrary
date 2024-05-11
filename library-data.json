@@ -122,7 +122,8 @@
         "tags": [
             "line cliché",
             "chromatic motion & passing chords",
-            "movement by fifth & circle progressions"
+            "movement by fifth & circle progressions",
+            "vi → bVI+ → I/V → I(b5)"
         ],
         "similarTo": [
         ],
@@ -131,7 +132,7 @@
                 "tempo": 149,
                 "key": 1,
                 "mode": "ionian",
-                "chords": "8I 4IV 4iiim 4vim7 4bVI+ 4I/V 4II/#III 8ii 16V"
+                "chords": "8I 4IV 4iiim 4vim7 4bVI+ 4I/V 4I(b5)/bV 8ii 16V"
             },
             "Verse 1": {
                 "tempo": 149,
@@ -483,7 +484,6 @@
             "spotify": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
         },
         "tags": [
-            "I(b5)",
             "chromatic motion & passing chords",
             "ivm & minor plagal cadence"
         ],
@@ -527,7 +527,7 @@
         },
         "tags": [
             "line cliché",
-            "I(b5)"
+            "vi → bVI+ → I/V → I(b5)"
         ],
         "similarTo": [
             "put-your-records-on"
@@ -538,6 +538,46 @@
                 "key": 2,
                 "mode": "ionian",
                 "chords": "4vim 4bVI+ 4I/V 4I(b5)/bV 12IVmaj7(no3) 4I(b5)/bV"
+            }
+        }
+    },
+    "solo-otra-vez": {
+        "name": "Solo Otra Vez",
+        "artist": "Grupo 5",
+        "commentary": "This song uses two notable passing chord progressions. The first consists of two descending lines, which are orchestrated by the electric bass and brass. The second is the \"vi → bVI+ → I/V → I(b5)\" progression, which can be seen in the likes of OFFICIAL HIGE DANDISM and beabadoobee. Temporally, there are borrowed beats everywhere, with some measures only having two beats, although upon first listen it's hard to notice!",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=A2aYszrp5ug",
+            "spotify": "https://open.spotify.com/track/2TmhA38cTn9OYiL7J2cdVc"
+        },
+        "tags": [
+            "chromatic motion & passing chords",
+            "vi → bVI+ → I/V → I(b5)"
+        ],
+        "similarTo": [],
+        "sections": {
+            "Intro/Instrumental": {
+                "tempo": 96,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4I 4V 2IV 2iim 4V (x2) / vim V7 4I"
+            },
+            "Verse": {
+                "tempo": 96,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4I 4iiim 4vim 2iiim iiim7 bIII7 6IV6 4V (x2)"
+            },
+            "Chorus": {
+                "tempo": 96,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4I 4V 4IV 4V 2vim 2bVI+ 2I/V 2I(b5)/bV 4IV 4V"
+            },
+            "Outro": {
+                "tempo": 96,
+                "key": 5,
+                "mode": "ionian",
+                "chords": "4vim 4iiim 4vim 4iiim 4IV 4V (x2) / vim7 vim6 vim(add4)"
             }
         }
     }
