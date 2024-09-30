@@ -621,5 +621,53 @@
                 "chords": "4IV 4I 2iim 2iiim 4vim / 4I 2viidim 2III 2vim 2bvidim7 2I 2II 4IV 2I 2VI7 2iim 2I/III 4vim 2IV 2V 4vim 2IV 2V 2VI"
             }
         }
+    },
+    "chessboard": {
+        "name": "Chessboard",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "commentary": "The chorus and pre-chorus of this song are pretty simple, highlighting the diatonic downwards motion of the bass. The interesting part, however, is the bridge, which undergoes two modulations.\n\nThe first bridge modulation is a minor third up from G to Bb. First, they use the Mario cadence in G, which is usually analyzed as a bVI, bVII, I. However, I would argue that the tonal center of the Mario cadence is temporarily the bIII of the key the cadence is in—for G, this would be Bbmaj/gm. Thus, when analyzed in this tonal center, the cadence becomes IV, V, VImaj with a picardy third sound. Immediately after, while the listener’s ear is still in that Bb tonal center, the VImaj returns to being minor, and the chords simply climb up the Eb scale: vi, viim, I, ii, preparing for a 2-5-1 to solidify the new key.\n\nFor the second key change, the harmony simply moves from the iim up to an III7, which is of course the V of the original key, G.\n\nFurthermore, the bridge makes good use of the subdominant 2-5-1 and the #ivdim, the classic mark of Higedan.\n\nReferences: Haruguitar (YT), Dr. Kaito Tomita (YT)",
+        "outlinks": {
+            "youtube-music": "https://music.youtube.com/watch?v=l2nqfPAMrSo",
+            "spotify": "https://open.spotify.com/track/4iXhDPO4JBOkARTdtAmdAH"
+        },
+        "tags": [
+            "vm-I-IV: subdominant 2-5-1",
+            "#ivdim",
+            "bVI, bVII: mario/backdoor cadence"
+        ],
+        "similarTo": [
+        ],
+        "sections": {
+            "Chorus": {
+                "tempo": 82,
+                "key": 10,
+                "mode": "ionian",
+                "chords": "2I 2V/vii 2vim 2Vsus4 2IVmaj7 2I/iii 2II7 Vsus4 V / 2I 2V/vii 2vim 2bVImaj7 2Vsus4 2iim7 2V 2I"
+            },
+            "Pre-Chorus": {
+                "tempo": 82,
+                "key": 10,
+                "mode": "ionian",
+                "chords": "4IV 2iiim7 2vim 2iim 2V 2I 2I7 / 2IV 2V/IV 2iiim7 2VIsus4 2iim7 2II7 4V 4vm"
+            },
+            "Bridge (Part 1)": {
+                "tempo": 82,
+                "key": 10,
+                "mode": "ionian",
+                "chords": "2I 2V/vii 2vim 2Vsus4 2IVmaj7 2I/III 2II7 Vsus4 V / 2I 2V/vii 2vim 2iiim7 2IV 2I/III 2II7 2V / 4bVImaj7 4bVII 6I 1/2im 1/2iim 1/2bIII 1/2ivm"
+            },
+            "Bridge (Part 2)": {
+                "tempo": 82,
+                "key": 1,
+                "mode": "ionian",
+                "chords": "4iim 4V 2I viidim IIImaj 2vim 2V 2#ivdim 2IV 2iiim 2VI7 4iim 4III 4III7"
+            },
+            "Bridge (Part 3)": {
+                "tempo": 82,
+                "key": 10,
+                "mode": "ionian",
+                "chords": "2IV I/III IIImaj 2vim V I 2IV 2V 2bvidim 2vim / 2IV I/III IIImaj iim V/vii 2I 2IV 2I/III iim V I IIImaj / 2vim vm I 2IV 2I/III 2iim 2V 2bvidim 2vim / 4IV iiim bvidim 2vim 2IV 2I/III 2iim 4V"
+            }
+        }
     }
 }
